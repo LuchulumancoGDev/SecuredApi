@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rKP+BdeYO3BXrRBWYaUEL6rF4PmTaD9TZLarFpPfKzI=",
+  "Source": "SecureApiWithJwtToken",
+  "BasePath": "_content/SecureApiWithJwtToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
