@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureApiWithJwtToken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa62d07156c852d6a7ede3036174ffc42885bde0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureApiWithJwtToken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureApiWithJwtToken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

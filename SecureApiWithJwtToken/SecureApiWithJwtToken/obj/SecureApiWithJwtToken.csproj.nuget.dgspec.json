@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luchulumanco.gontshi\\Desktop\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj": {}
+    "C:\\Users\\bhuti\\OneDrive\\Desktop\\SecuredApi\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luchulumanco.gontshi\\Desktop\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj": {
+    "C:\\Users\\bhuti\\OneDrive\\Desktop\\SecuredApi\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luchulumanco.gontshi\\Desktop\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj",
+        "projectUniqueName": "C:\\Users\\bhuti\\OneDrive\\Desktop\\SecuredApi\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj",
         "projectName": "SecureApiWithJwtToken",
-        "projectPath": "C:\\Users\\luchulumanco.gontshi\\Desktop\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj",
-        "packagesPath": "C:\\Users\\luchulumanco.gontshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luchulumanco.gontshi\\Desktop\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\obj\\",
+        "projectPath": "C:\\Users\\bhuti\\OneDrive\\Desktop\\SecuredApi\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\SecureApiWithJwtToken.csproj",
+        "packagesPath": "C:\\Users\\bhuti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhuti\\OneDrive\\Desktop\\SecuredApi\\SecureApiWithJwtToken\\SecureApiWithJwtToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luchulumanco.gontshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bhuti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,6 +83,10 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.2.0, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -99,19 +103,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x86",
-              "version": "[7.0.17, 7.0.17]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
+              "version": "[7.0.15, 7.0.15]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -122,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
